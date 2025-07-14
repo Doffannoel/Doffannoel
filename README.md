@@ -41,6 +41,10 @@
 
 ---
 
+<img src="https://raw.githubusercontent.com/Doffannoel/Doffannoel/output/snake.svg" alt="Snake animation" />
+
+###
+
 ### 📱 Highlight Projects
 
 #### 🏥 TERVIST Health App
